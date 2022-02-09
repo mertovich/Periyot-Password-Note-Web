@@ -1,0 +1,14 @@
+/* home */
+.home-left-section-read-more-button{
+    border: none;
+    padding: 10px 30px 10px 30px;
+    background-color: #FE5E5E;
+    color: #FBFCFF;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.home-left-section-read-more-button:hover{
+    background-color: rgb(244, 65, 117);
+    color: #FBFCFF;
+}
+/* home end*/
