@@ -9,9 +9,9 @@ const App = () => {
   return <div style={{ overflowX: 'hidden' }} >
     <NavBar />
     <Routes>
-      <Route path='/' element={<Home />}/>
-      <Route path='/About' element={<About />}/>
-      <Route path='/Features' element={<Features/>}/>
+      <Route exact path='Periyot-Password-Note-Web/' element={<Home />}/>
+      <Route path='Periyot-Password-Note-Web/About' element={<About />}/>
+      <Route path='Periyot-Password-Note-Web/Features' element={<Features/>}/>
     </Routes> 
   </div>;
 };
