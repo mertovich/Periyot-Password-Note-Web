@@ -17,19 +17,19 @@ const NavBar = () => {
                     marginLeft: '2%',
                     marginRight: '2%',
                 }} >
-                    <Link style={{textDecoration:'none'}} to='/' ><b>Home</b></Link>
+                    <Link style={{textDecoration:'none'}} to='Periyot-Password-Note-Web/' ><b>Home</b></Link>
                 </Navbar.Text>
                 <Navbar.Text style={{
                     marginLeft: '2%',
                     marginRight: '2%',
                 }} >
-                    <Link style={{textDecoration:'none'}} to='/About'><b>About</b></Link>
+                    <Link style={{textDecoration:'none'}} to='Periyot-Password-Note-Web/About'><b>About</b></Link>
                 </Navbar.Text>
                 <Navbar.Text style={{
                     marginLeft: '2%',
                     marginRight: '2%',
                 }}>
-                    <Link style={{textDecoration:'none'}} to='/Features'><b>Features</b></Link>
+                    <Link style={{textDecoration:'none'}} to='Periyot-Password-Note-Web/Features'><b>Features</b></Link>
                 </Navbar.Text>
                 <Navbar.Text style={{
                     marginLeft: '2%',
