@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Periyot-Password-Note-Web/static/css/main.0a53ce6e.css",
-    "main.js": "/Periyot-Password-Note-Web/static/js/main.80933040.js",
+    "main.js": "/Periyot-Password-Note-Web/static/js/main.836e48b1.js",
     "static/js/787.d1d4a2c2.chunk.js": "/Periyot-Password-Note-Web/static/js/787.d1d4a2c2.chunk.js",
     "static/media/screen.jpeg": "/Periyot-Password-Note-Web/static/media/screen.a39d1f411698ff827435.jpeg",
     "static/media/shield.png": "/Periyot-Password-Note-Web/static/media/shield.4504d0e95e570d3ae700.png",
@@ -14,11 +14,11 @@
     "static/media/undraw_apps_re_ienc.svg": "/Periyot-Password-Note-Web/static/media/undraw_apps_re_ienc.244ceef0997edb690379d91088d08053.svg",
     "index.html": "/Periyot-Password-Note-Web/index.html",
     "main.0a53ce6e.css.map": "/Periyot-Password-Note-Web/static/css/main.0a53ce6e.css.map",
-    "main.80933040.js.map": "/Periyot-Password-Note-Web/static/js/main.80933040.js.map",
+    "main.836e48b1.js.map": "/Periyot-Password-Note-Web/static/js/main.836e48b1.js.map",
     "787.d1d4a2c2.chunk.js.map": "/Periyot-Password-Note-Web/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a53ce6e.css",
-    "static/js/main.80933040.js"
+    "static/js/main.836e48b1.js"
   ]
 }
